@@ -1,6 +1,3 @@
-
-> Diese Seite bei [https://rinkens.github.io/ultraschallsensor-test/](https://rinkens.github.io/ultraschallsensor-test/) öffnen
-
 ## Beschreibung
 
 Test-Programm für den Grove Ultraschallsensor am Anschluss B des Calliope Mini.
